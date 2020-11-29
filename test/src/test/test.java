@@ -24,6 +24,7 @@ N.remove( N.size()-1);
 	else N.remove(x-1);
 	x--;
 	System.out.println( N.toString() );
+	System.out.print("Hello my nice Lady");
 
 }
 }}
